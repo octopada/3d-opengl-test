@@ -16,3 +16,4 @@ G sets player to slow speed.
 WASD moves the camera in helicopter mode.
 
 Reach the blue block and press R to win
+
